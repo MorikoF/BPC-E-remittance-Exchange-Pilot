@@ -1,0 +1,1 @@
+The BPC’s E-remittance Exchange Pilot confirmed that an exchange framework supports the sending, receiving and automation of e-remittance information. You can find all E-remittance Exchange Pilot resources including the ISO® 20022 remittance data model and implementation reference guide available for download at www.businesspaymentscoalition.org.
